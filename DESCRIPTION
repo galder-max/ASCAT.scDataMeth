@@ -1,0 +1,13 @@
+Package: ASCAT.scDataMeth
+Title: ASCAT.scDataMeth
+Version: 0.1
+Authors@R: 
+    person(given = "Maxime",
+           family = "Tarabichi",
+           role = c("aut", "cre"),
+           email = "maxime.tarabichi@ulb.be")
+Description: pre-compiled panel of normals and bad loci for Infinium methylation arrays
+
+
+
+
