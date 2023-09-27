@@ -1,7 +1,11 @@
 # ASCAT.sc_data
 
 R Data Package for ASCAT.sc () containing pre-compiled panel of
-normals and IDs of bad probes (bad loci) for 450K and Epicv1 Infinium arrays.
+normals and IDs of bad probes (bad loci) for 450K and Epicv1 Infinium
+arrays.
+
+There is now also support for Epicv2 - only following the google drive
+link, as there are quotas for big files on the github LFS.
 
 ## Install
 
